@@ -31,10 +31,5 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 > There is one data with shape of (23111,28) with a lot of information. What I want to demostrate is how to analyze this kind of data, how should you start to approach the problems, from business side also from techinical side. There are 13 business questions came out from my mind and I need to solve them supporting by the data. Then at end, I will give business recommendations for this company to help them improve their strategy and business.
 
 
-## What you can do with my projects?
 
-You can feel free to comment on my projects, find the bugs or tell me what your thoughts about my coding, analysis and insight. You can contact with me through my email: saizhang123@gmail.com. I will love to hear your ideas.
-You can also take some codes away if you think some of them can be useful for your projects.
-
-![Alt Text](https://i.chzbgr.com/full/6669971968/h4410CE92/)
 
